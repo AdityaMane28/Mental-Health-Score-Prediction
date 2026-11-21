@@ -1,0 +1,10 @@
+# Runtime and notebook dependencies for mental_health_risk_pipeline.ipynb
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.5
+matplotlib>=3.8
+seaborn>=0.12.2
+joblib>=1.3
+notebook>=7.0
+ipykernel>=6.25
